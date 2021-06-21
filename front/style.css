@@ -1,0 +1,19 @@
+   
+div i{
+  font-size: 40px; 
+ 
+}  
+div a{
+  width: 100px;
+  height: 80px;
+  border-radius: 50%;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;  
+}     
+.twit a:hover{
+  background-color: blue;
+  color: white;
+}       
